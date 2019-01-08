@@ -1,0 +1,4 @@
+baseURL = "http://cockamamy.net/"
+languageCode = "en-us"
+title = "John Burwell"
+theme = "hugo-nuo"
